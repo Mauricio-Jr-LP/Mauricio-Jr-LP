@@ -7,7 +7,7 @@
   </a>
 </div> -->
 
-Sou desenvolvedora de Web com PHP.
+Sou desenvolvedor de Web com PHP.
 
 - 👨‍🎓 Bacharelado em Sistemas de Informação.
 - 👩‍💻 Aprendendo mais sobre Javascript e seus Frameworks
