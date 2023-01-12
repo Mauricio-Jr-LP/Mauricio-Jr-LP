@@ -1,11 +1,11 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
 # 😁 Olá, seja bem vindo!
-  <div id="badges">
+  <!-- <div id="badges">
   <a href = "https://github.com/Mauricio-Jr-LP">
     <img src="https://avatars.githubusercontent.com/u/51757509?v=4" alt="Foto Github"/>
   </a>
-</div>
+</div> -->
 
 Sou desenvolvedora de Web com PHP.
 
